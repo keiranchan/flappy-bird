@@ -1,0 +1,24 @@
+
+/******************************************************************/
+Project£ºFlappyBird_U3D
+Date:2015/06
+CS_FileCount:7
+by KeiranChan
+/*****************************************************************/
+
+/*****************************************************************/
+1.GameMenu.cs
+2.Bird.cs
+3.FollowBird.cs
+4.GameManager.cs
+5.MoveTrigger.cs
+6.Pipe.cs
+7.PipeUpOrDown.cs
+
+1-->Depend to the GameState to change the Interface which were made by UGUI
+2-->Control the bird how to move,
+3-->Control the Camera 
+4-->Definite the Gamestate(gameStart ,gamePlaying,gameEnd)
+5-->Control the background moving as the bird is moving 
+6-->Plus score
+7-->Random position of the pipes
